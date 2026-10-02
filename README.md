@@ -6,7 +6,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1426?style=for-the-badge&logo=linkedin&logoColor=00D1FF)](https://www.linkedin.com/in/ahmed-t-756505379/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1426?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzAwRDFGRiI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMDEtMi4wNjMtMi4wNjUgMi4wNjQgMi4wNjQgMCAxMTIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4K)](https://www.linkedin.com/in/ahmed-t-756505379/)
 [![Email](https://img.shields.io/badge/Email-0B1426?style=for-the-badge&logo=gmail&logoColor=00D1FF)](mailto:ahmedtareksalah0005@gmail.com)
 [![HackerOne](https://img.shields.io/badge/HackerOne-0B1426?style=for-the-badge&logo=hackerone&logoColor=00D1FF)](https://hackerone.com/thaqib)
 [![PYRAMID-SEC](https://img.shields.io/badge/PYRAMID--SEC-0B1426?style=for-the-badge&logo=github&logoColor=00D1FF)](https://github.com/PYRAMID-SEC)
