@@ -8,7 +8,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1426?style=for-the-badge&logo=linkedin&logoColor=00D1FF)](https://www.linkedin.com/in/ahmed-t-756505379/)
 [![Email](https://img.shields.io/badge/Email-0B1426?style=for-the-badge&logo=gmail&logoColor=00D1FF)](mailto:ahmedtareksalah0005@gmail.com)
+[![HackerOne](https://img.shields.io/badge/HackerOne-0B1426?style=for-the-badge&logo=hackerone&logoColor=00D1FF)](https://hackerone.com/thaqib)
+[![PYRAMID-SEC](https://img.shields.io/badge/PYRAMID--SEC-0B1426?style=for-the-badge&logo=github&logoColor=00D1FF)](https://github.com/PYRAMID-SEC)
 </div>
+
 
 ---
 
