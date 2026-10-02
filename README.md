@@ -93,7 +93,6 @@ class Ahmed:
 
 ---
 
-##  Connect With Me
 
 <div align="center">
 
