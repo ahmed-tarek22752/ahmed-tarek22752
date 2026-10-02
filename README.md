@@ -4,9 +4,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00D1FF&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=0B1426&labelColor=00D1FF)
-![Stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=0B1426&labelColor=D4AF37)
 
 </div>
 
