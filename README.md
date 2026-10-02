@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1426,100:00D1FF&height=220&section=header&text=Ahmed%20Tarek%20Salah&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Builder%20%7C%20Defensive%20Security%20%7C%20Deception%20Tech&descSize=18&descAlignY=60" width="100%"/>
-
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=Building+defensive+security+tools;Python+%7C+Honeypots+%7C+Threat+Detection;Guard+the+tomb.+Trap+the+thief." alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1426,100:00D1FF&height=220&section=header&text=Ahmed%20Tarek%20Salah&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Researcher&descSize=22&descAlignY=60" width="100%"/>
 
 <br/>
 
