@@ -4,12 +4,13 @@
 
 <br/>
 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1426?style=for-the-badge&logo=linkedin&logoColor=00D1FF)](https://www.linkedin.com/in/ahmed-t-756505379/)
+[![Email](https://img.shields.io/badge/Email-0B1426?style=for-the-badge&logo=gmail&logoColor=00D1FF)](mailto:ahmedtareksalah0005@gmail.com)
 </div>
 
 ---
 
-## 👋 About Me
+##  About Me
 
 ```python
 class Ahmed:
@@ -96,8 +97,7 @@ class Ahmed:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1426?style=for-the-badge&logo=linkedin&logoColor=00D1FF)](https://www.linkedin.com/in/ahmed-t-756505379/)
-[![Email](https://img.shields.io/badge/Email-0B1426?style=for-the-badge&logo=gmail&logoColor=00D1FF)](mailto:ahmedtareksalah0005@gmail.com)
+
 
 
 <br/>
