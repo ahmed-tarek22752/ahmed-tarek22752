@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1426,100:00D1FF&height=220&section=header&text=Ahmed%20Tarek%20Salah&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Researcher&descSize=22&descAlignY=60" width="100%"/>
+<a href="https://github.com/PYRAMID-SEC">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1426,100:00D1FF&height=220&section=header&text=Ahmed%20Tarek%20Salah&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Researcher&descSize=22&descAlignY=60" width="100%"/>
+</a>
 
 <br/>
 
@@ -80,6 +82,8 @@
 
 <sub>🛡️ <i>All my tools are built for defense and for systems you own or are authorized to protect.</i></sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:0B1426&height=120&section=footer" width="100%"/>
+<a href="https://github.com/PYRAMID-SEC">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D1FF,100:0B1426&height=120&section=footer" width="100%"/>
+</a>
 
 </div>
