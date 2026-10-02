@@ -30,7 +30,7 @@
 
 `Python` `asyncio` `SQLite` `MITRE ATT&CK`
 
-[![Repo](https://img.shields.io/badge/View%20Repo-00D1FF?style=for-the-badge&logo=github&logoColor=0B1426)](https://github.com/YOUR_USERNAME/phar3on)
+[![Repo](https://img.shields.io/badge/View%20Repo-00D1FF?style=for-the-badge&logo=github&logoColor=0B1426)](https://github.com/ahmed-tarek22752/phar3on)
 
 </td>
     <td width="50%" valign="top">
@@ -40,7 +40,7 @@
 
 `Python` `CLI` `Blue Team` `Reporting`
 
-[![Repo](https://img.shields.io/badge/View%20Repo-00D1FF?style=for-the-badge&logo=github&logoColor=0B1426)](https://github.com/YOUR_USERNAME/sentinelblade)
+[![Repo](https://img.shields.io/badge/View%20Repo-00D1FF?style=for-the-badge&logo=github&logoColor=0B1426)](https://github.com/ahmed-tarek22752/sentinelblade)
 
 </td>
   </tr>
