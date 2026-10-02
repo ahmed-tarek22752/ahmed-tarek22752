@@ -29,14 +29,14 @@ class Ahmed:
     motto    = "Forge your defense."
 ```
 
-- 🔭 I build open-source **defensive** security tools
-- 🛡️ Interested in honeypots, file integrity, log analysis and incident response
-- 🌱 Learning something new in security every day
-- 📫 Reach me: **your-email@example.com**
+-  I build open-source **defensive** security tools
+-  Interested in honeypots, file integrity, log analysis and incident response
+-  Learning something new in security every day
+-  Reach me: **your-email@example.com**
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table>
   <tr>
@@ -95,23 +95,17 @@ class Ahmed:
 
 ---
 
-## 🏆 Achievements & Roadmap
 
-- [x] Built SentinelBlade, a defensive security toolkit
-- [x] Built Phar3on, a deception-defense framework
-- [ ] Publish first write-up / blog post
-- [ ] Earn a security certification (Security+, eJPT, etc.)
-- [ ] Contribute to an open-source security project
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1426?style=for-the-badge&logo=linkedin&logoColor=00D1FF)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-0B1426?style=for-the-badge&logo=gmail&logoColor=00D1FF)](mailto:your-email@example.com)
-[![Twitter](https://img.shields.io/badge/X-0B1426?style=for-the-badge&logo=x&logoColor=00D1FF)](https://x.com/YOUR_X)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1426?style=for-the-badge&logo=linkedin&logoColor=00D1FF)](https://www.linkedin.com/in/ahmed-t-756505379/)
+[![Email](https://img.shields.io/badge/Email-0B1426?style=for-the-badge&logo=gmail&logoColor=00D1FF)](mailto:ahmedtareksalah0005@gmail.com)
+
 
 <br/>
 
