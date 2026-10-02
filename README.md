@@ -48,28 +48,9 @@
 
 ---
 
-## 🧰 Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-0B1426?style=for-the-badge&logo=python&logoColor=00D1FF)
-![Linux](https://img.shields.io/badge/Linux-0B1426?style=for-the-badge&logo=linux&logoColor=00D1FF)
-![Bash](https://img.shields.io/badge/Bash-0B1426?style=for-the-badge&logo=gnubash&logoColor=00D1FF)
-![Git](https://img.shields.io/badge/Git-0B1426?style=for-the-badge&logo=git&logoColor=00D1FF)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0B1426?style=for-the-badge&logo=githubactions&logoColor=00D1FF)
-![SQLite](https://img.shields.io/badge/SQLite-0B1426?style=for-the-badge&logo=sqlite&logoColor=00D1FF)
-![Docker](https://img.shields.io/badge/Docker-0B1426?style=for-the-badge&logo=docker&logoColor=00D1FF)
-![VS Code](https://img.shields.io/badge/VS%20Code-0B1426?style=for-the-badge&logo=visualstudiocode&logoColor=00D1FF)
-
-</div>
-
----
 
 
 
-</div>
-
----
 
 
 
