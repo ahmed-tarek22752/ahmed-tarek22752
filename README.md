@@ -15,7 +15,9 @@
 
 ---
 
-
+<p align="center">
+  <img src="assets/logo.svg" alt="SentinelBlade logo" width="700"/>
+</p>
 
 ---
 
