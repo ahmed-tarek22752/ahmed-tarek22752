@@ -10,23 +10,7 @@
 
 ---
 
-##  About Me
 
-```python
-class Ahmed:
-    name     = "Ahmed Tarek Salah"
-    role     = "Cybersecurity Enthusiast & Tool Builder"
-    location = "Alexandria, Egypt 🇪🇬"
-    focus    = ["Defensive Security", "Deception Technology", "Threat Detection"]
-    languages = ["Python", "Bash", "JavaScript"]
-    currently_learning = ["Malware Analysis", "SIEM & Detection Engineering", "Cloud Security"]
-    motto    = "Forge your defense."
-```
-
--  I build open-source **defensive** security tools
--  Interested in honeypots, file integrity, log analysis and incident response
--  Learning something new in security every day
--  Reach me: **your-email@example.com**
 
 ---
 
@@ -76,14 +60,7 @@ class Ahmed:
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&bg_color=0B1426&title_color=00D1FF&icon_color=D4AF37&text_color=C9D1D9&hide_border=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&bg_color=0B1426&title_color=00D1FF&text_color=C9D1D9&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&background=0B1426&ring=00D1FF&fire=D4AF37&currStreakLabel=00D1FF&hide_border=true" />
 
 </div>
 
