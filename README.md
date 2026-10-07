@@ -19,32 +19,62 @@
 
 ---
 
-##  Featured Projects
+##  ## Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
 
-### 🔱 Phar3on
-**Deception-defense framework.** Plants decoy files and fake services, detects intruders, maps activity to MITRE ATT&CK, and keeps tamper-evident evidence logs with a live dashboard.
+### 🛡️ SOAR-EDR-PROJECT
 
-`Python` `asyncio` `SQLite` `MITRE ATT&CK`
+**Security Operations & EDR project.** A defensive security project focused on endpoint detection, incident response, and security automation workflows.
 
-[![Repo](https://img.shields.io/badge/View%20Repo-00D1FF?style=for-the-badge&logo=github&logoColor=0B1426)](https://github.com/ahmed-tarek22752/phar3on)
+`Python` `EDR` `SOAR` `Incident Response`
+
+[![Repo](https://img.shields.io/badge/View%20Repo-00D1FF?style=for-the-badge\&logo=github\&logoColor=0B1426)](https://github.com/ahmed-tarek22752/SOAR-EDR-PROJECT)
 
 </td>
     <td width="50%" valign="top">
 
-### ⚔️ SentinelBlade
-**Modular defensive toolkit.** File integrity monitor, own-system port auditor, log analyzer, secrets scanner, password checker and phishing URL heuristics.
+### 🔎 SOC-Detection-Splunk-Project
 
-`Python` `CLI` `Blue Team` `Reporting`
+**SOC detection and monitoring project.** Demonstrates security monitoring, log analysis, threat detection, and SIEM-based investigation using Splunk.
 
-[![Repo](https://img.shields.io/badge/View%20Repo-00D1FF?style=for-the-badge&logo=github&logoColor=0B1426)](https://github.com/ahmed-tarek22752/sentinelblade)
+`Splunk` `SIEM` `SOC` `Threat Detection`
+
+[![Repo](https://img.shields.io/badge/View%20Repo-00D1FF?style=for-the-badge\&logo=github\&logoColor=0B1426)](https://github.com/ahmed-tarek22752/SOC-Detection-Splunk-Project)
+
+</td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+
+### 🔐 Security Vulnerability in Microsoft Office
+
+**Security vulnerability research.** A research project documenting the discovery and analysis of a security vulnerability affecting Microsoft Office.
+
+`Vulnerability Research` `Microsoft Office` `Security Analysis`
+
+[![Repo](https://img.shields.io/badge/View%20Repo-00D1FF?style=for-the-badge\&logo=github\&logoColor=0B1426)](https://github.com/ahmed-tarek22752/security-vulnerability-in-Microsoft-Office)
+
+</td>
+    <td width="50%" valign="top">
+
+### 🎣 Phishing Email Threat Analysis
+
+**Phishing email investigation project.** Analyzes phishing indicators, email-based attack techniques, and methods for identifying malicious messages.
+
+`Phishing` `Threat Analysis` `Email Security` `Blue Team`
+
+[![Repo](https://img.shields.io/badge/View%20Repo-00D1FF?style=for-the-badge\&logo=github\&logoColor=0B1426)](https://github.com/ahmed-tarek22752/phishing-email-threat-analysis)
 
 </td>
   </tr>
 </table>
+
+---
+
 
 ---
 
