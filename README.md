@@ -56,7 +56,7 @@
 
 `Vulnerability Research` `Microsoft Office` `Security Analysis`
 
-[![Repo](https://img.shields.io/badge/View%20Repo-00D1FF?style=for-the-badge\&logo=github\&logoColor=0B1426)](https://github.com/ahmed-tarek22752/security-vulnerability-in-Microsoft-Office)
+[![View Repo](https://img.shields.io/badge/View%20Repo-00D1FF?style=for-the-badge&logo=github&logoColor=0B1426)](https://github.com/ahmed-tarek22752/security-vulnerability-in-Microsoft-Office)
 
 </td>
     <td width="50%" valign="top">
